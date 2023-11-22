@@ -42,7 +42,7 @@ export default function App() {
 
   return (
     <motion.main>
-      <h1>Project 3: Quote Generator</h1>
+      <h1>Quote Generator</h1>
       <section>
         <motion.button
           onClick={getNewQuote}
